@@ -1,4 +1,4 @@
-r = float(input())
-area = r**2 * 3.14159
+nums = [1,2,4,5,3,5]
 
-print("A=" "{:.4f}".format(area))
+def (nums, target) : 
+    
